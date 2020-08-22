@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "30KCk2dc1E7zwuIqkKYP6pYvIbWSLWiGMlrgUCu9ju7zNhNueOmTQGfi8F6aPZFj/d/c601j/RLTKiDXNEIgMA==",
+  "success": true,
+  "projectFilePath": "/Users/jwynia/Projects/LookBusy/LookBusy.csproj",
+  "expectedPackageFiles": [
+    "/Users/jwynia/.nuget/packages/bogus/30.0.4/bogus.30.0.4.nupkg.sha512",
+    "/Users/jwynia/.nuget/packages/mcmaster.extensions.commandlineutils/3.0.0/mcmaster.extensions.commandlineutils.3.0.0.nupkg.sha512",
+    "/Users/jwynia/.nuget/packages/system.componentmodel.annotations/4.7.0/system.componentmodel.annotations.4.7.0.nupkg.sha512"
+  ],
+  "logs": []
+}
