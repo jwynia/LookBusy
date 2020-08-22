@@ -1,3 +1,4 @@
+using System.Security.Cryptography;
 using McMaster.Extensions.CommandLineUtils;
 
 namespace LookBusy

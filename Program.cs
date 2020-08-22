@@ -5,7 +5,8 @@ using McMaster.Extensions.CommandLineUtils;
 namespace LookBusy
 {
 	[Command(Name="look-busy", Description = "Sometimes, computers need to look busy."),
-	 Subcommand(typeof(TransferData))
+	 Subcommand(typeof(TransferData)),
+	 Subcommand(typeof(ShowPeople))
 	]
 	class Program
 	{
