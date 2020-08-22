@@ -13,6 +13,7 @@ namespace LookBusy
 		public void OnExecute()
 		{
 			Logger.LogSuccess("Press CTRL+C to stop");
+			Thread.Sleep(1000);
 			var people = new Faker<Bogus.Person>().GenerateForever();
 			int counter = 25000;
 			while(true)
